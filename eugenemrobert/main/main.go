@@ -77,7 +77,7 @@ func TryVehicle(vehicle Vehicle) {
 }
 
 func main() {
-	TryVehicle(Truck("Fnord F180"))
+	TryVehicle(Truck("Ford F180"))
 }
 
 /*func main() {
